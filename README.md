@@ -1,0 +1,1 @@
+July 10th 2026 - Decided to abandon this project. It needs to use the Gemini API, which requires me to sign up for a developer account. I was hoping to use it with the local OpenAI agent, but that didn't work out. I'll try again when I have more time.
